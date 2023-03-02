@@ -25,31 +25,32 @@ Here are some ideas to get you started:
 ---
 
 ## 🤝 Connect, Follow
-[![portfolio](https://img.shields.io/badge/-Website-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://www.jenniferkaiser.tech)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jenniferkaiser-tech)
-[![Gmail Badge](https://img.shields.io/badge/-Email%20Me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jenniferkaiser.tech@gmail.com)](mailto:jenniferkaiser.tech@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Email%20Me-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jenniferkaiser.tech@gmail.com)](mailto:jenniferkaiser.tech@gmail.com)
+[![portfolio](https://img.shields.io/badge/-Website-green?style=for-the-badge&logo=website&logoColor=white)](http://www.jenniferkaiser.tech)
+[![Leetcode Badge](https://img.shields.io/badge/-Leetcode-000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/jkaiser21/)
 <br>
 
 ## Languages
-![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
-![MySQL](https://img.shields.io/badge/-MySQL-purple?style=flat-square&logo=mysql)
-![bash](https://img.shields.io/badge/-bash-green?style=flat-square&logo=bash)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=Python)
+![MySQL](https://img.shields.io/badge/-MySQL-purple?style=for-the-badge&logo=mysql)
+![bash](https://img.shields.io/badge/-bash-green?style=for-the-badge&logo=bash)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 <br>
 
 ## Frameworks and Libraries
-![Django](https://img.shields.io/badge/-Django-green?style=flat-square&logo=Django)
-![flask](https://img.shields.io/badge/-flask-red?style=flat-square&logo=flask)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![pandas](https://img.shields.io/badge/-pandas-black?style=flat-square&logo=pandas)
+![Django](https://img.shields.io/badge/-Django-green?style=for-the-badge&logo=Django)
+![flask](https://img.shields.io/badge/-flask-red?style=for-the-badge&logo=flask)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+![pandas](https://img.shields.io/badge/-pandas-black?style=for-the-badge&logo=pandas)
 <br>
 
 ## 🛠 Other Skills and Tools
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-yellow?style=flat-square&logo=amazon-aws)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-black?style=flat-square&logo=Raspberry-Pi)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-yellow?style=for-the-badge&logo=amazon-aws)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-black?style=for-the-badge&logo=Raspberry-Pi)
 <br>
 
 ## 🎻 Interests
