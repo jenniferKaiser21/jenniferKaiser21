@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jenniferkaiser-tech)
 [![Gmail Badge](https://img.shields.io/badge/-Email%20Me-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jenniferkaiser.tech@gmail.com)](mailto:jenniferkaiser.tech@gmail.com)
 [![portfolio](https://img.shields.io/badge/-Website-green?style=for-the-badge&logo=website&logoColor=white)](http://www.jenniferkaiser.tech)
-[![Leetcode Badge](https://img.shields.io/badge/-Leetcode-000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/jkaiser21/)
 <br>
 
 ## Languages
