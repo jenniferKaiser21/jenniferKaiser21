@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 -->
 
 ## ⚡ A quick introduction
+* ⚡ I recently started a new job as a Software Engineer on the DevX Platforms team at Comcast!
 * 🔭 I've completed certifications in Backend Engineering and Data Engineering (Python, SQL, AWS, Django, etc)
-* 🌱 I'm currently working on fullstack Django web applications deployed using AWS
+* 🌱 My most recent projects have been working on fullstack Django web applications deployed using AWS
 * 😄 Pronouns: She/Her
 * 👩‍🏫 Fun-Fact: I am a former K-12 Educator with 12 years of experience
 ---
