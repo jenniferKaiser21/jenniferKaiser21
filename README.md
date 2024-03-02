@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 -->
 
 ## ⚡ A quick introduction
-* ⚡ I recently started a new job as a Software Engineer on the DevX Platforms team at Comcast!
+* ⚡ I am a Software Engineer on the Cloud Infrastructure Reliability Engineering Systems Linux Team in the Comcast Cloud Technology (CCT) organization, formerly the DevX Platforms Systems Linux Team at Comcast!
+* ⚡ I specialize in Linux OS patching, hardening, and provisioning automation, Ansible, AWX, Kubernetes, Docker, and cloud computing (such as AWS and on-prem cloud solutions), bespoke Python script writing for metrics collection and automation, CI/CD with Github Actions and Concourse.
 * 🔭 I've completed certifications in Backend Engineering and Data Engineering (Python, SQL, AWS, Django, etc)
-* 🌱 My most recent projects have been working on fullstack Django web applications deployed using AWS
+* 🌱 I recently made my first open-source contribution to Comcast's [FishyMetrics](https://github.com/comcast/fishymetrics)
 * 😄 Pronouns: She/Her
 * 👩‍🏫 Fun-Fact: I am a former K-12 Educator with 12 years of experience
 ---
@@ -33,6 +34,9 @@ Here are some ideas to get you started:
 
 ## Languages
 ![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=Python)
+![Golang](https://img.shields.io/badge/-golang-blue?style=for-the-badge&logo=go)
+![JavaScript](https://img.shields.io/badge/-javascript-yellow?style=for-the-badge&logo=javascript)
+![Ansible](https://img.shields.io/badge/-ansible-black?style=for-the-badge&logo=ansible)
 ![MySQL](https://img.shields.io/badge/-MySQL-purple?style=for-the-badge&logo=mysql)
 ![bash](https://img.shields.io/badge/-bash-green?style=for-the-badge&logo=bash)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -40,15 +44,16 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 <br>
 
-## Frameworks and Libraries
+## 🛠 Frameworks, Libraries, and Tools
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-yellow?style=for-the-badge&logo=amazon-aws)
+![AWX](https://img.shields.io/badge/-awx-red?style=for-the-badge&logo=awx)
+![Kubernetes](https://img.shields.io/badge/-kubernetes-black?style=for-the-badge&logo=kubernetes)
+![RedFish](https://img.shields.io/badge/-redfish-red?style=for-the-badge&logo=redfish)
 ![Django](https://img.shields.io/badge/-Django-green?style=for-the-badge&logo=Django)
+![Docker](https://img.shields.io/badge/-docker-black?style=for-the-badge&logo=docker)
 ![flask](https://img.shields.io/badge/-flask-red?style=for-the-badge&logo=flask)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
 ![pandas](https://img.shields.io/badge/-pandas-black?style=for-the-badge&logo=pandas)
-<br>
-
-## 🛠 Other Skills and Tools
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-yellow?style=for-the-badge&logo=amazon-aws)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-black?style=for-the-badge&logo=Raspberry-Pi)
 <br>
