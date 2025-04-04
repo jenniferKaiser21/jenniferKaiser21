@@ -2,28 +2,33 @@
 
 # Hi there, I'm Jennifer Kaiser 👋
 
-<!--
-**jenniferKaiser21/jenniferKaiser21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## ⚡ A quick introduction
-* ⚡ I am a Software Engineer on the Cloud Infrastructure Reliability Engineering Systems Linux Team in the Comcast Cloud Technology (CCT) organization, formerly the DevX Platforms Systems Linux Team at Comcast!
-* ⚡ I specialize in Linux OS patching, hardening, and provisioning automation, Ansible, AWX, Kubernetes, Docker, and cloud computing (such as AWS and on-prem cloud solutions), bespoke Python script writing for metrics collection and automation, CI/CD with Github Actions and Concourse.
-* 🔭 I've completed certifications in Backend Engineering and Data Engineering (Python, SQL, AWS, Django, etc)
-* 🌱 I recently made my first open-source contribution to Comcast's [FishyMetrics](https://github.com/comcast/fishymetrics)
-* 😄 Pronouns: She/Her
-* 👩‍🏫 Fun-Fact: I am a former K-12 Educator with 12 years of experience
+
+🌟 Impact-driven Software Engineer | AI Innovation & Infrastructure Engineering | Comcast Global Cloud Technologies
+
+I’m a collaborative Software Engineer at Comcast, blending AI with infrastructure engineering to deliver secure, automated, and scalable solutions across cloud, on-prem, and bare metal systems.
+
+Here are some fun accomplishments in my role so far:
+
+🤖 Developed a AI Slack Bot App POC in Python with a fine-tuned LLM for real-time troubleshooting, presented to VP-level leadership in under a month.
+
+🔧 Refactored Concourse pipelines and infrastructure to support new Linux OSes (Amazon Linux 2023, Rocky 9, Ubuntu 24.04), streamlining enterprise rollouts.
+
+🌐 Contributed to the open-source FishyMetrics project, expanding telemetry across tens of thousands of bare metal systems (Golang).
+
+🔐 Engineered secure, cross-platform Ansible configs for Linux distros in line with Comcast Secure Linux Standards.
+
+⚙️ Played a key role in next-gen OS rollouts, including Ansible playbook refactors and automation.
+
+🛠 Built and tested secure Linux OS images for cloud and on-prem, documenting the process for leadership.
+
+🧪 Automated health checks and telemetry in AWX and Kubernetes to prevent outages.
+
+🚀 Created GitHub Actions and API tooling to streamline workflows and enable GitHub Enterprise Cloud migration.
+
+🧱 Set up a containerized Builder API dev environment with local DynamoDB; implemented unit and integration tests (Node.js).
+
 ---
 
 ## 🤝 Connect, Follow
@@ -61,6 +66,7 @@ Here are some ideas to get you started:
 ## 🎻 Interests
 * Python
 * Software Development
+* AI/ML
 * Data Engineering
 * Data Science
 * Technology
