@@ -11,7 +11,7 @@ I’m a collaborative Software Engineer at Comcast, blending AI with infrastruct
 
 Here are some fun accomplishments in my role so far:
 
-🤖 Developed a AI Slack Bot App POC in Python with a fine-tuned LLM for real-time troubleshooting, presented to VP-level leadership in under a month.
+🤖 Developed a AI Slack Bot App MVP in Python with a fine-tuned LLM for real-time troubleshooting, presented to SVP-level leadership in under a month. Productionalized and launched successfully.
 
 🔧 Refactored Concourse pipelines and infrastructure to support new Linux OSes (Amazon Linux 2023, Rocky 9, Ubuntu 24.04), streamlining enterprise rollouts.
 
